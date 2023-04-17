@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/iv_card"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/card_image" />
+
+    <TextView
+        android:id="@+id/tv_card_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Value"
+        tools:text="10"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/tv_card_suit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Suit"
+        android:textColor="#546E7A"
+        tools:ignore="HardcodedText"
+        tools:text="♠" />
+
+</LinearLayout>

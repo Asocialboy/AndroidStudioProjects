@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atlas>
+    <sprite>
+        <name>atlas</name>
+        <x>2</x>
+        <y>6</y>
+        <width>100</width>
+        <height>150</height>
+    </sprite>
+</atlas>
