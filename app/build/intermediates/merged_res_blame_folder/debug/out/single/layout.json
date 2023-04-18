@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.cardgame.app-mergeDebugResources-23:/layout/activity_main.xml",
+        "source": "com.example.cardgame.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-mergeDebugResources-23:/layout/activity_main.xml",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-mergeDebugResources-23:/layout/item_card.xml",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/layout/item_card.xml"
+    }
+]

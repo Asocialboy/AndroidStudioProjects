@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+animator card_flip_in
+animator card_flip_out
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+drawable atlas
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnStartGame
+id cardImageView
+id iv_card
+id rvPlayer1
+id rvPlayer2
+id rvPlayer3
+id rvPlayer4
+id tvRole
+id tv_card_suit
+id tv_card_value
+layout activity_main
+layout item_card
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw atlas
+string app_name
+string card_image
+string start_game
+style AppTheme
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules

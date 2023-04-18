@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/xml_backup_rules.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/animator_card_flip_in.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/animator/card_flip_in.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/drawable_texture_back_card.jpg.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/drawable/texture_back_card.jpg"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/drawable_atlas.png.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/drawable/atlas.png"
+    },
+    {
+        "merged": "com.example.cardgame.app-merged_res-24:/raw_atlas.xml.flat",
+        "source": "com.example.cardgame.app-main-26:/raw/atlas.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/raw_atlas.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/raw/atlas.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/layout_activity_main.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/animator_card_flip_out.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/animator/card_flip_out.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/layout_item_card.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/layout/item_card.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-merged_res-24:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/asocialboy/.gradle/daemon/7.4/com.example.cardgame.app-main-26:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
